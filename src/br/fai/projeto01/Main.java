@@ -23,6 +23,15 @@ public class Main {
 		
 		System.out.println("Resultado 2: "+ idade);
 		
+		if(idade > 20)
+		{
+			System.out.println("A idade e maior que 20.");
+		}
+		else 
+		{
+			System.out.println("A idade e menor que 20.");
+		}
+		
 	}
 
 }
